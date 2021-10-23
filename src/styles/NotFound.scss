@@ -1,0 +1,26 @@
+.notFound-container {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.notFound-error {
+  font-size: 250px;
+}
+
+.notFound-parrafo {
+  font-size: 30px;
+}
+
+.notFound-button {
+  width: 20rem;
+  border: none;
+  padding: 10px 0;
+  text-align: center;
+  text-decoration: none;
+  background-color: var(--hospital-green);
+  color: var(--text-input-field);
+  font-size: 1.2rem;
+}
