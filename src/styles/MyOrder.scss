@@ -4,6 +4,11 @@
   box-sizing: border-box;
   position: absolute;
   right: 0;
+  background-color: #fff;
+  top: 60px;
+  border-radius: 6px;
+  bottom: 0;
+  border: 1px solid var(--very-light-pink);
 }
 .title-container {
   display: flex;
