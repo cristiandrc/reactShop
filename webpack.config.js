@@ -6,7 +6,7 @@ module.exports = {
   entry: "./src/index.js",
   output: {
     path: path.resolve(__dirname, "dist"),
-    filename: "/reactShop/bundle.js",
+    filename: "reactShop/bundle.js",
     publicPath: "/reactShop/",
   },
   resolve: {
